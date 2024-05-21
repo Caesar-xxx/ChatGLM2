@@ -1,0 +1,2 @@
+# ChatGLM2
+使用langchain工具构造多文档本地知识库，使用qlora微调训练本地数据集
